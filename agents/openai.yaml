@@ -1,0 +1,5 @@
+interface:
+  display_name: "Interactive Explainer HTML"
+  short_description: "Build trace-driven interactive HTML explainers"
+  brand_color: "#4F46E5"
+  default_prompt: "Use $interactive-explainer-html to create a step-by-step interactive HTML explainer for this system."
